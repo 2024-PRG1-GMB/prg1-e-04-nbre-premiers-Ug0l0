@@ -1,0 +1,6 @@
+- Pas d'en-tête dans votre module (nom, prénom, date et descriptif)
+- Pas de constante pour les entrées utilisateur ('O' et 'N')
+- ouinon n'est pas un nom de variable adéquate
+- ligne 13 faute d'orthographe
+- Affichage non respecté selon la donnée
+- La prochaine fois, inclure les fichiers de compilation cmake dans votre repo!
